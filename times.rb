@@ -1,6 +1,9 @@
-def using_times
-	#your code here
+def times
+	7.times do
+  	puts "Wingardium Leviosa"
 end
+
+times
 
 
 
